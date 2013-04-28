@@ -6,7 +6,7 @@ import org.apache.commons.codec.binary.Base64;
 import java.io.*;
 import java.security.MessageDigest;
 
-/**
+/**  
  * 七牛qetag算法JAVA实现
  * User: njava
  * Date: 13-4-27
